@@ -30,9 +30,9 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_repositories: yes
-          plugin_discussions: yes
+          plugin_discussions: no
           config_order: base.header, isocalendar, languages, notable, discussions, topics
 
       - name: 🦑 Personal metrics (bottom)
