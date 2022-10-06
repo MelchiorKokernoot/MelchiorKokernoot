@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1162,14 +1162,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 106kb of code in 161 edited files across 39 commits over last 13 days</small>
+                <small>estimation from 112kb of code in 177 edited files across 41 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.1579316054257" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="260.1579316054257" y="0" width="199.84206839457428" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.97197618701904" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="246.97197618701904" y="0" width="213.028023812981" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1181,8 +1181,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>941 lines</div>
-                                <div>56.56%</div>
+                                <div>995 lines</div>
+                                <div>53.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1195,8 +1195,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>935 lines</div>
-                                <div>43.44%</div>
+                                <div>1.12k lines</div>
+                                <div>46.31%</div>
                             </small>
                         </div>
                     </section>
