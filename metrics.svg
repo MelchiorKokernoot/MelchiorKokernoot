@@ -1136,14 +1136,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 112kb of code in 177 edited files across 41 commits over last 14 days</small>
+                <small>estimation from 112kb of code in 177 edited files across 41 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.97197618701904" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="246.97197618701904" y="0" width="213.028023812981" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.0689886135298" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="239.0689886135298" y="0" width="220.9310113864702" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1155,8 +1155,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>995 lines</div>
-                                <div>53.69%</div>
+                                <div>1.01k lines</div>
+                                <div>51.97%</div>
                             </small>
                         </div>
                     </section>
@@ -1169,8 +1169,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>1.12k lines</div>
-                                <div>46.31%</div>
+                                <div>1.16k lines</div>
+                                <div>48.03%</div>
                             </small>
                         </div>
                     </section>
