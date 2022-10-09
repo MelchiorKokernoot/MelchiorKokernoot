@@ -1146,8 +1146,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.66314305849193" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="233.66314305849193" y="0" width="226.3368569415081" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.11361714124615" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="246.11361714124615" y="0" width="213.88638285875388" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1159,8 +1159,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>989 lines</div>
-                                <div>50.8%</div>
+                                <div>1.05k lines</div>
+                                <div>53.5%</div>
                             </small>
                         </div>
                     </section>
@@ -1173,8 +1173,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>1.22k lines</div>
-                                <div>49.2%</div>
+                                <div>1.16k lines</div>
+                                <div>46.5%</div>
                             </small>
                         </div>
                     </section>
