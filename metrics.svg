@@ -1146,8 +1146,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.2561475409836" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="320.2561475409836" y="0" width="139.74385245901638" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.4943743607228" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="320.4943743607228" y="0" width="139.50562563927718" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1159,8 +1159,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>214 lines</div>
-                                <div>69.62%</div>
+                                <div>218 lines</div>
+                                <div>69.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1174,7 +1174,7 @@
                             </div>
                             <small>
                                 <div>109 lines</div>
-                                <div>30.38%</div>
+                                <div>30.33%</div>
                             </small>
                         </div>
                     </section>
