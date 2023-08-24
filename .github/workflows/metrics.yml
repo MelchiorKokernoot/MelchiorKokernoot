@@ -34,27 +34,3 @@ jobs:
           plugin_notable_repositories: yes
           plugin_discussions: no
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-
-      - name: 🦑 Personal metrics (bottom)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          config_display: large
-      
-      - name: 3D Graph
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.3dgraph.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2023          
-          plugin_skyline_frames: 120          
-          plugin_skyline_quality: 1       
-          plugin_skyline_compatibility: yes 
